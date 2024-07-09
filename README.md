@@ -11,7 +11,7 @@ PayeTonKawa est une solution basée sur une architecture de microservices pour l
 
 ## Architecture
 
-![Architecture](images/PayeTonKawa_architecture.png)
+![Architecture](assets/PayeTonKawa_architecture.png)
 
 ### Description des Services
 
