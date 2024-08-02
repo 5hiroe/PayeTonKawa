@@ -77,6 +77,12 @@ cd orders-service
 npm install
 ```
 
+### Configuration des bases de test
+
+Pour installer les différentes bases de données, il faut récupérer et exécuter `assets/docker-compose.yml`.
+
+Une fois celà fait, il faut modifier les fichiers .env avec les bons URL pour chaque base de donnée.
+
 ## Utilisation
 
 ### Démarrer les Services
